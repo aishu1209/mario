@@ -1,0 +1,55 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.big_image{
+    width: 100%;
+
+}
+
+#start, #status{
+    font-size: 22px;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.instruction_image{
+    display: inline-block;
+    width : 45%;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+h4{
+    background-color:purple;
+    line-height: 2;
+    margin:0;
+    font-family:fantasy;
+    font-weight:bold;
+    color: white;
+}
+
+video{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
